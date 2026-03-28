@@ -6,3 +6,8 @@
 */Files/Data/docs.checksum
 */QuickLook/
 */Settings/ui.plist
+
+# Editor and OS artifacts
+.history/
+.DS_Store
+Thumbs.db
